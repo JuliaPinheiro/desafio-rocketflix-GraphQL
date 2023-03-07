@@ -18,7 +18,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   color: var(--title);
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 .container {
